@@ -1,0 +1,90 @@
+[
+  {
+    "id": "05c0e972-8960-45e2-b3bb-b11f5563aedd",
+    "name": "Blue Headphone.webp",
+    "details": "",
+    "price": "137.67",
+    "imagePath": "src/assets/images/image-1.webp",
+    "category": ""
+  },
+  {
+    "id": "c2345c04-1c1d-4dd0-880c-242d05e69b31",
+    "name": "Red Wall With a bicycle-10.jpeg",
+    "details": "",
+    "price": "89.71",
+    "imagePath": "src/assets/images/image-10.jpeg",
+    "category": ""
+  },
+  {
+    "id": "34ef9073-f89d-43a5-a0ab-c8c6392d0cd9",
+    "name": "Yellow Telephone.jpeg",
+    "details": "",
+    "price": "122.39",
+    "imagePath": "src/assets/images/image-11.jpeg",
+    "category": ""
+  },
+  {
+    "id": "b0e8b14f-e45b-4eae-b771-e067dafa17ee",
+    "name": "Green Headphone.webp",
+    "details": "",
+    "price": "111.29",
+    "imagePath": "src/assets/images/image-2.webp",
+    "category": ""
+  },
+  {
+    "id": "c57785ff-15ac-47dc-b230-df42aca61095",
+    "name": "Pink Headphone.webp",
+    "details": "",
+    "price": "98.56",
+    "imagePath": "src/assets/images/image-3.webp",
+    "category": ""
+  },
+  {
+    "id": "22d63c9a-123a-42ce-9e7a-e1f9ae7f9839",
+    "name": "Read Headphone",
+    "details": "",
+    "price": "34.73",
+    "imagePath": "src/assets/images/image-4.webp",
+    "category": ""
+  },
+  {
+    "id": "af260239-3521-42fe-abd5-b0521b349e37",
+    "name": "Orange Headphone",
+    "details": "",
+    "price": "144.02",
+    "imagePath": "src/assets/images/image-5.webp",
+    "category": ""
+  },
+  {
+    "id": "f52e8eee-4f57-419b-a1df-e3495deb6ac0",
+    "name": "Gray Headphone",
+    "details": "",
+    "price": "133.25",
+    "imagePath": "src/assets/images/image-6.webp",
+    "category": ""
+  },
+  {
+    "id": "dead3e49-448c-4536-b4cc-8b4c0df41f58",
+    "name": "Smart Watch",
+    "details": "",
+    "price": "47.41",
+    "imagePath": "src/assets/images/image-7.webp",
+    "category": ""
+  },
+  {
+    "id": "18e5ceca-904d-4510-9d6e-e7b82a6b8d6b",
+    "name": "Smart Watch Yellow",
+    "details": "",
+    "price": "113.18",
+    "imagePath": "src/assets/images/image-8.webp",
+    "category": ""
+  },
+  {
+    "id": "09bf7948-7215-4e80-8e0c-56cb468b2e72",
+    "name": "Smart Watch Skyblue",
+    "details": "",
+    "price": "117.41",
+    "imagePath": "src/assets/images/image-9.webp",
+    "category": ""
+  }
+]
